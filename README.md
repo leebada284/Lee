@@ -1,5 +1,3 @@
-#Sailing Boat
-
 <!DOCTYPE html>
 <html>
 <head>
